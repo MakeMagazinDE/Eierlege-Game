@@ -2,5 +2,5 @@ title: Das Eierlege-Game
 description: Eine kurze Beschreibung der Technik hinter dem Projekt.
 baseurl: "/Eierlege-Game"
 url: "https://makemagazinde.github.io"
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-midnight
 markdown: kramdown
