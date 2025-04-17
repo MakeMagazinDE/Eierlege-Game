@@ -1,3 +1,6 @@
+header_pages:
+  - index.md
+  - schaltung.md
 title: Das Eierlege-Game
 description: Eine kurze Beschreibung der Technik hinter dem Projekt.
 theme: minima

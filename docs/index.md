@@ -1,5 +1,7 @@
 ---
 title: Das Eierlegegame
+layout: page
+permalink: /index/
 ---
 
 # Das Eierlegegame
