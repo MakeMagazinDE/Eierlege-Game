@@ -1,6 +1,5 @@
 ---
 title: Das Eierlegegame
-layout: default
 ---
 
 # Das Eierlegegame
